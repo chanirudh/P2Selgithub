@@ -12,7 +12,7 @@ import org.openqa.selenium.remote.RemoteWebDriver;
 
 
 public class ParametirizationTest {
-	
+	//changed some script not really 
 	WebDriver driver;
 	@Test
 	public void exforparam() throws MalformedURLException{
